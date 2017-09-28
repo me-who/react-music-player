@@ -65,7 +65,7 @@
 /******/ 	}
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "6a98f513a3208b2279d1"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "5389f2f34bb43d634f0c"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -32728,7 +32728,7 @@
 	      return _react2.default.createElement(
 	        'div',
 	        { className: 'components-header row' },
-	        _react2.default.createElement('img', { src: '/static/images/logo.png', width: '40', alt: '', className: '-col-auto' }),
+	        _react2.default.createElement('img', { src: './static/images/logo.png', width: '40', alt: '', className: '-col-auto' }),
 	        _react2.default.createElement(
 	          'h1',
 	          { className: 'caption' },
